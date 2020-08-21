@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b0e6cccf49c78a98227dda086423a67",
+    "revision": "6f674f6a67f4331e44bea1b93eb9cba3",
     "url": "/gianneamparo/index.html"
   },
   {
-    "revision": "77063dfa78d1daf18a23",
+    "revision": "509a4c4077461076c9b3",
     "url": "/gianneamparo/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "c3c4a900bf8a80eac154",
-    "url": "/gianneamparo/static/css/main.2498704b.chunk.css"
+    "revision": "f1df3c63549650dbd69b",
+    "url": "/gianneamparo/static/css/main.36d8d5ee.chunk.css"
   },
   {
-    "revision": "77063dfa78d1daf18a23",
-    "url": "/gianneamparo/static/js/2.c82dc0b7.chunk.js"
+    "revision": "509a4c4077461076c9b3",
+    "url": "/gianneamparo/static/js/2.f92e8194.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/gianneamparo/static/js/2.c82dc0b7.chunk.js.LICENSE.txt"
+    "url": "/gianneamparo/static/js/2.f92e8194.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c3c4a900bf8a80eac154",
-    "url": "/gianneamparo/static/js/main.4241db04.chunk.js"
+    "revision": "f1df3c63549650dbd69b",
+    "url": "/gianneamparo/static/js/main.3be0aa1b.chunk.js"
   },
   {
     "revision": "620b18fbb41b29c7533e",
@@ -52,11 +52,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gianneamparo/static/media/Gianne Amparo6.32bceabe.jpg"
   },
   {
+    "revision": "34d149be7100986a0263eede709b9825",
+    "url": "/gianneamparo/static/media/Gianne Amparo7.34d149be.jpg"
+  },
+  {
+    "revision": "121f248434e5c0207e0c164616c61336",
+    "url": "/gianneamparo/static/media/Gianne Amparo8.121f2484.jpg"
+  },
+  {
+    "revision": "c4d32e0fbd33635a4594530f885638b1",
+    "url": "/gianneamparo/static/media/GianneAmparo9.c4d32e0f.jpg"
+  },
+  {
     "revision": "6362cb17f2a38f27feea0b4947d1c59a",
     "url": "/gianneamparo/static/media/gianne.6362cb17.jpg"
   },
   {
     "revision": "252c8cadcb2b4e269de7f6e3a21ad03f",
     "url": "/gianneamparo/static/media/logo.252c8cad.jpg"
+  },
+  {
+    "revision": "87e7a6b57940cdba261a1f78c645bc76",
+    "url": "/gianneamparo/static/media/logo.87e7a6b5.png"
   }
 ]);
