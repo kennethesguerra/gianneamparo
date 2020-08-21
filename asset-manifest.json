@@ -1,29 +1,33 @@
 {
   "files": {
-    "main.css": "/gianneamparo/static/css/main.4f3b5ded.chunk.css",
-    "main.js": "/gianneamparo/static/js/main.c3d79ad6.chunk.js",
-    "main.js.map": "/gianneamparo/static/js/main.c3d79ad6.chunk.js.map",
+    "main.css": "/gianneamparo/static/css/main.2498704b.chunk.css",
+    "main.js": "/gianneamparo/static/js/main.4241db04.chunk.js",
+    "main.js.map": "/gianneamparo/static/js/main.4241db04.chunk.js.map",
     "runtime-main.js": "/gianneamparo/static/js/runtime-main.c2dd28b8.js",
     "runtime-main.js.map": "/gianneamparo/static/js/runtime-main.c2dd28b8.js.map",
     "static/css/2.11829350.chunk.css": "/gianneamparo/static/css/2.11829350.chunk.css",
-    "static/js/2.3cb72fbf.chunk.js": "/gianneamparo/static/js/2.3cb72fbf.chunk.js",
-    "static/js/2.3cb72fbf.chunk.js.map": "/gianneamparo/static/js/2.3cb72fbf.chunk.js.map",
+    "static/js/2.c82dc0b7.chunk.js": "/gianneamparo/static/js/2.c82dc0b7.chunk.js",
+    "static/js/2.c82dc0b7.chunk.js.map": "/gianneamparo/static/js/2.c82dc0b7.chunk.js.map",
     "index.html": "/gianneamparo/index.html",
-    "precache-manifest.8816b3061d3c190bc1c79044bc711ad5.js": "/gianneamparo/precache-manifest.8816b3061d3c190bc1c79044bc711ad5.js",
+    "precache-manifest.a56bc3ca556b356d1da08ddfb5e30e6e.js": "/gianneamparo/precache-manifest.a56bc3ca556b356d1da08ddfb5e30e6e.js",
     "service-worker.js": "/gianneamparo/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/gianneamparo/static/css/2.11829350.chunk.css.map",
-    "static/css/main.4f3b5ded.chunk.css.map": "/gianneamparo/static/css/main.4f3b5ded.chunk.css.map",
-    "static/js/2.3cb72fbf.chunk.js.LICENSE.txt": "/gianneamparo/static/js/2.3cb72fbf.chunk.js.LICENSE.txt",
-    "static/media/289-200x300.jpg": "/gianneamparo/static/media/289-200x300.5ce0ec49.jpg",
+    "static/css/main.2498704b.chunk.css.map": "/gianneamparo/static/css/main.2498704b.chunk.css.map",
+    "static/js/2.c82dc0b7.chunk.js.LICENSE.txt": "/gianneamparo/static/js/2.c82dc0b7.chunk.js.LICENSE.txt",
+    "static/media/Gianne Amparo1.jpg": "/gianneamparo/static/media/Gianne Amparo1.32147b8d.jpg",
+    "static/media/Gianne Amparo2.jpg": "/gianneamparo/static/media/Gianne Amparo2.63b6cbd6.jpg",
+    "static/media/Gianne Amparo3.jpg": "/gianneamparo/static/media/Gianne Amparo3.5b7d04bf.jpg",
+    "static/media/Gianne Amparo4.jpg": "/gianneamparo/static/media/Gianne Amparo4.b5fcdd3e.jpg",
+    "static/media/Gianne Amparo5.jpg": "/gianneamparo/static/media/Gianne Amparo5.b55878a0.jpg",
+    "static/media/Gianne Amparo6.jpg": "/gianneamparo/static/media/Gianne Amparo6.32bceabe.jpg",
     "static/media/gianne.jpg": "/gianneamparo/static/media/gianne.6362cb17.jpg",
-    "static/media/logo.jpg": "/gianneamparo/static/media/logo.252c8cad.jpg",
-    "static/media/logo.png": "/gianneamparo/static/media/logo.87e7a6b5.png"
+    "static/media/logo.jpg": "/gianneamparo/static/media/logo.252c8cad.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2dd28b8.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.3cb72fbf.chunk.js",
-    "static/css/main.4f3b5ded.chunk.css",
-    "static/js/main.c3d79ad6.chunk.js"
+    "static/js/2.c82dc0b7.chunk.js",
+    "static/css/main.2498704b.chunk.css",
+    "static/js/main.4241db04.chunk.js"
   ]
 }
