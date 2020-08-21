@@ -1,0 +1,11 @@
+#admin-page-login {
+  width: 300px;
+  margin: 0 auto;
+  text-align: left;
+  border: 1px solid #ddd;
+  padding: 30px;
+}
+
+#admin-page-logo {
+  margin-top: 100px;
+}

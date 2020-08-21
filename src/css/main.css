@@ -1,0 +1,85 @@
+#main {
+  position: relative;
+  min-height: 100vh;
+}
+
+#header-logo {
+  background: #fff !important;
+  margin: 0 auto !important; 
+  width: 100%;
+  z-index: 111;
+}
+
+#menus {
+  top: 180px;
+  width: 100%;
+  background: #fff !important;
+  z-index: 8;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.nav-link{
+  color: #555;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  color: #cbcbcb;
+}
+
+#main-content {
+  padding-top: 20px;
+  padding-bottom: 220px
+}
+
+.align-text {
+  text-align: left !important;
+}
+
+#footer {
+  background: #444444;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  height: 130px;
+  margin-top: 50px;
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 0 !important;
+  position: absolute;
+  bottom: 0;
+  color: #ccc;
+}
+
+#footer-socmed-icons {
+  margin: 0 auto;
+}
+
+.footer-socmed-icon {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #ccc;
+  padding: 20px 10px 10px 10px;
+}
+
+.footer-socmed-icon:hover {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #ccc;
+  padding: 20px 10px 10px 10px;
+  background: #555;
+  border-radius: 100%;
+  
+}
+
+#footer-illustrator {
+  padding-top: 40px;
+  margin: 0 auto;
+}
+
+.home-gallery-photo {
+  cursor: pointer;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
