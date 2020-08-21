@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f674f6a67f4331e44bea1b93eb9cba3",
+    "revision": "6e90d86e40053834dd096a1de4028cec",
     "url": "/gianneamparo/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gianneamparo/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "f1df3c63549650dbd69b",
-    "url": "/gianneamparo/static/css/main.36d8d5ee.chunk.css"
+    "revision": "0eea2a8d4aa32fcb7b90",
+    "url": "/gianneamparo/static/css/main.b7bddc2e.chunk.css"
   },
   {
     "revision": "509a4c4077461076c9b3",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gianneamparo/static/js/2.f92e8194.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1df3c63549650dbd69b",
+    "revision": "0eea2a8d4aa32fcb7b90",
     "url": "/gianneamparo/static/js/main.3be0aa1b.chunk.js"
   },
   {

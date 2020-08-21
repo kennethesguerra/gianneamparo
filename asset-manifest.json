@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gianneamparo/static/css/main.36d8d5ee.chunk.css",
+    "main.css": "/gianneamparo/static/css/main.b7bddc2e.chunk.css",
     "main.js": "/gianneamparo/static/js/main.3be0aa1b.chunk.js",
     "main.js.map": "/gianneamparo/static/js/main.3be0aa1b.chunk.js.map",
     "runtime-main.js": "/gianneamparo/static/js/runtime-main.c2dd28b8.js",
@@ -9,10 +9,10 @@
     "static/js/2.f92e8194.chunk.js": "/gianneamparo/static/js/2.f92e8194.chunk.js",
     "static/js/2.f92e8194.chunk.js.map": "/gianneamparo/static/js/2.f92e8194.chunk.js.map",
     "index.html": "/gianneamparo/index.html",
-    "precache-manifest.f5ab43201dc2c04050ebb311a9e074bd.js": "/gianneamparo/precache-manifest.f5ab43201dc2c04050ebb311a9e074bd.js",
+    "precache-manifest.6f1452e6a8d3d650d4c931ebefebdb8a.js": "/gianneamparo/precache-manifest.6f1452e6a8d3d650d4c931ebefebdb8a.js",
     "service-worker.js": "/gianneamparo/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/gianneamparo/static/css/2.11829350.chunk.css.map",
-    "static/css/main.36d8d5ee.chunk.css.map": "/gianneamparo/static/css/main.36d8d5ee.chunk.css.map",
+    "static/css/main.b7bddc2e.chunk.css.map": "/gianneamparo/static/css/main.b7bddc2e.chunk.css.map",
     "static/js/2.f92e8194.chunk.js.LICENSE.txt": "/gianneamparo/static/js/2.f92e8194.chunk.js.LICENSE.txt",
     "static/media/Gianne Amparo1.jpg": "/gianneamparo/static/media/Gianne Amparo1.32147b8d.jpg",
     "static/media/Gianne Amparo2.jpg": "/gianneamparo/static/media/Gianne Amparo2.63b6cbd6.jpg",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.c2dd28b8.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.f92e8194.chunk.js",
-    "static/css/main.36d8d5ee.chunk.css",
+    "static/css/main.b7bddc2e.chunk.css",
     "static/js/main.3be0aa1b.chunk.js"
   ]
 }
