@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gianneamparo/static/css/main.4f3b5ded.chunk.css",
+    "main.js": "/gianneamparo/static/js/main.c3d79ad6.chunk.js",
+    "main.js.map": "/gianneamparo/static/js/main.c3d79ad6.chunk.js.map",
+    "runtime-main.js": "/gianneamparo/static/js/runtime-main.c2dd28b8.js",
+    "runtime-main.js.map": "/gianneamparo/static/js/runtime-main.c2dd28b8.js.map",
+    "static/css/2.11829350.chunk.css": "/gianneamparo/static/css/2.11829350.chunk.css",
+    "static/js/2.3cb72fbf.chunk.js": "/gianneamparo/static/js/2.3cb72fbf.chunk.js",
+    "static/js/2.3cb72fbf.chunk.js.map": "/gianneamparo/static/js/2.3cb72fbf.chunk.js.map",
+    "index.html": "/gianneamparo/index.html",
+    "precache-manifest.8816b3061d3c190bc1c79044bc711ad5.js": "/gianneamparo/precache-manifest.8816b3061d3c190bc1c79044bc711ad5.js",
+    "service-worker.js": "/gianneamparo/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/gianneamparo/static/css/2.11829350.chunk.css.map",
+    "static/css/main.4f3b5ded.chunk.css.map": "/gianneamparo/static/css/main.4f3b5ded.chunk.css.map",
+    "static/js/2.3cb72fbf.chunk.js.LICENSE.txt": "/gianneamparo/static/js/2.3cb72fbf.chunk.js.LICENSE.txt",
+    "static/media/289-200x300.jpg": "/gianneamparo/static/media/289-200x300.5ce0ec49.jpg",
+    "static/media/gianne.jpg": "/gianneamparo/static/media/gianne.6362cb17.jpg",
+    "static/media/logo.jpg": "/gianneamparo/static/media/logo.252c8cad.jpg",
+    "static/media/logo.png": "/gianneamparo/static/media/logo.87e7a6b5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2dd28b8.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.3cb72fbf.chunk.js",
+    "static/css/main.4f3b5ded.chunk.css",
+    "static/js/main.c3d79ad6.chunk.js"
+  ]
+}
